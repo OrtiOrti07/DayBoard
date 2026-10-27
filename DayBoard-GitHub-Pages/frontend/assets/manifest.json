@@ -1,0 +1,14 @@
+{
+  "name": "DayBoard — tu día, a tu ritmo",
+  "short_name": "DayBoard",
+  "description": "Tu espacio personal para organizar el día.",
+  "start_url": "../",
+  "scope": "../",
+  "display": "standalone",
+  "background_color": "#f5f5f2",
+  "theme_color": "#f5f5f2",
+  "lang": "es",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
